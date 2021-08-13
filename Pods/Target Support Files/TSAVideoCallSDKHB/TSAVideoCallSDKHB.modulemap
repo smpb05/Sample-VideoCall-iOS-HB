@@ -1,0 +1,6 @@
+framework module TSAVideoCallSDKHB {
+  umbrella header "TSAVideoCallSDKHB-umbrella.h"
+
+  export *
+  module * { export * }
+}
